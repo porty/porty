@@ -1,4 +1,26 @@
-### Hi there 👋
+### Who?
+
+🧘‍♂️ Now
+
+* Go
+* TypeScript + React + Material UI
+* San Francisco 🌁
+
+👈 Was
+
+* Java ☕️
+* Australia 🦘
+* PHP 🐘
+* UAVs ✈️
+* Plain ES5 👴
+* C++ 
+* Delphi
+
+Next 👉
+
+* Rust? 🦀
+* Robots? 🤖
+* Spaaace? 👨‍🚀
 
 <!--
 **porty/porty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
