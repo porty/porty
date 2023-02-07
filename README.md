@@ -1,16 +1,3 @@
-### Who?
+Backend & Frontend & DevOps, Go & TS & C/C++ & PHP & Ruby & SQL, React & Material UI & Symfony & Rails & Postgres
 
-🧘‍♂️ Now
-
-* Go / TypeScript + React + Material UI
-* San Francisco 🌁
-
-👈 Was
-
-* Java ☕️ / PHP 🐘 / UAVs ✈️ / Plain ES5 👴 / C++ / Delphi
-* Australia 🦘
-
-Next 👉
-
-* Rust? 🦀 / Robots? 🤖
-* Spaaace? 👨‍🚀
+🇦🇺 in 🇺🇸
